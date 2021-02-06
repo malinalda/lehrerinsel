@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"sign1"
+                 "value":"https:\/\/miro.com\/app\/board\/o9J_lZDMRzk=\/"
                 }],
          "type":"tilelayer",
          "visible":true,
